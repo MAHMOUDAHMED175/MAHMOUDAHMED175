@@ -40,4 +40,4 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 
-[![Anurag's GitHub stats](https://github-readme-stats-chi-opal-83.vercel.app/api?username=bstawy&show=reviews&count_private=true&hide=commits,issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats-chi-opal-83.vercel.app/api?username=MAHMOUDAHMED175&show=reviews&count_private=true&hide=commits,issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
