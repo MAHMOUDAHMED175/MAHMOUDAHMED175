@@ -20,9 +20,9 @@
 
 - 📫 How to reach me: ...
 
-<a href="https://www.linkedin.com/in/mohamed-bstawy/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:mohamed.bastawiie@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="[https://drive.google.com/drive/folders/1PPomKFcwpsOXbupbg-noNnilBY7IWIqL?usp=sharing](https://drive.google.com/file/d/17g_W6sBrDMN-MkP4ocRbDoDQolHC9qlq/view?usp=drive_link)" target="_blank"><img src="https://img.shields.io/badge/My%20resume-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/mahmoud-ahmed-2101a4225/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="eng.mahmoudahmed176@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="[https://drive.google.com/file/d/17g_W6sBrDMN-MkP4ocRbDoDQolHC9qlq/view?usp=drive_link]" target="_blank"><img src="https://img.shields.io/badge/My%20resume-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white"/></a>
 
 ### 💻 &nbsp;Tech Stack <!-- 🛠 -->
 
