@@ -3,7 +3,7 @@
   Hi everyone, I'm Mahmoud Ahmed
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
-
+ 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Flutter%20Developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p> 
@@ -14,9 +14,7 @@
 
 - 🌱 I’m currently learning Flutter.
 
-- 👨‍💻 All of my projects are available at **[My Repository](https://github.com/bstawy?tab=repositories)**.
-
-- 👨‍💻 Check out **[My Portfolio](https://bastawyportofolio.framer.website/)** to see some of the projects I've worked on.
+- 👨‍💻 All of my projects are available at **[My Repository](https://github.com/MAHMOUDAHMED175?tab=repositories)**.
 
 - 📫 How to reach me: ...
 
@@ -31,7 +29,6 @@
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 
-![C++](https://img.shields.io/badge/c++-6698d3.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
